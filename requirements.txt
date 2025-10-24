@@ -1,0 +1,7 @@
+pandas
+requests
+python-dateutil
+matplotlib
+seaborn
+openpyxl
+urllib3
